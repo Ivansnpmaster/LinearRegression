@@ -1,0 +1,8 @@
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\bin\Debug\LinearRegression.dll
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\bin\Debug\LinearRegression.xml
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Resources.resources
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\obj\Debug\LinearRegression.vbproj.GenerateResource.Cache
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\obj\Debug\LinearRegression.dll
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\obj\Debug\LinearRegression.xml
+C:\Users\SNP\Desktop\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
